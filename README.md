@@ -1,6 +1,6 @@
-# EatsEasy Food Application System
+# THESIS: EatsEasy Food Application System
 
-Welcome to the EatsEasy System! This repository contains the source code and documentation for the EatsEasy application, a comprehensive food ordering and delivery platform.
+Welcome to the EatsEasy System! This repository contains the source code and documentation for our thesis EatsEasy application, a comprehensive food ordering and delivery platform.
 
 ## Technology Stack
 
@@ -113,4 +113,10 @@ The EatsEasy platform consists of the following components:
 
 ## Demo video
 https://drive.google.com/file/d/1ygcJW3eT4hD1AS8HHuSZpZB0q4u5XUmn/view?usp=drive_link
+
+## The developers
+- Rowel B. Alvero Jr.
+- John Francis V. Aguilar
+- Red M. Landicho
+- Benedict P. Solina
 
