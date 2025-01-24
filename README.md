@@ -30,15 +30,17 @@ The EatsEasy platform consists of the following components:
 
 2. **EatsEasy Vendor App**:
    - Menu creation and management
-   - Order management (pending, confirmed, processing, delivering)
+   - Order management (new orders, confirmed, processing, delivering)
    - Sales tracking and reporting
    - Vendor-to-user chat feature
    - Payment requests and verification
+   - Ratings overview
 
 3. **EatsEasy Driver App**:
    - Order acceptance and cancellation
    - Delivery status tracking and management
    - Delivery earnings overview
+   - Ratings overview
 
 4. **EatsEasy Admin App**:
    - Restaurant and driver verification
@@ -75,39 +77,3 @@ The EatsEasy platform consists of the following components:
 - View and manage all orders and transactions.
 - Create and organize food categories.
 - Review customer feedback and manage ratings.
-
-## Installation and Setup
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-repo>/eats-easy.git
-   ```
-2. Navigate to the backend folder and install dependencies:
-   ```bash
-   cd backend
-   npm install
-   ```
-3. Set up the MongoDB database and configure environment variables.
-4. Start the server:
-   ```bash
-   npm start
-   ```
-5. Navigate to the frontend folder for mobile and web apps:
-   ```bash
-   cd frontend
-   flutter run
-   ```
-
-## Contribution Guidelines
-
-1. Fork the repository and create a feature branch.
-2. Commit your changes with clear messages.
-3. Submit a pull request for review.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
----
-
-Would you like me to make any adjustments or add specific sections?
