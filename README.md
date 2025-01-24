@@ -112,5 +112,5 @@ The EatsEasy platform consists of the following components:
   ![Order Overview](assets/screenshots/orders-overview.png)
 
 ## Demo video
-[![Watch the demo video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://drive.google.com/file/d/1ygcJW3eT4hD1AS8HHuSZpZB0q4u5XUmn/view?usp=drive_link))
+https://drive.google.com/file/d/1ygcJW3eT4hD1AS8HHuSZpZB0q4u5XUmn/view?usp=drive_link
 
