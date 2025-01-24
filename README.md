@@ -1,4 +1,4 @@
-# EatsEasy System
+# EatsEasy Food Application System
 
 Welcome to the EatsEasy System! This repository contains the source code and documentation for the EatsEasy application, a comprehensive food ordering and delivery platform.
 
