@@ -114,7 +114,7 @@ The EatsEasy platform consists of the following components:
 ## Demo video
 https://drive.google.com/file/d/1ygcJW3eT4hD1AS8HHuSZpZB0q4u5XUmn/view?usp=drive_link
 
-## The developers
+## The Developers
 - Rowel B. Alvero Jr.
 - John Francis V. Aguilar
 - Red M. Landicho
