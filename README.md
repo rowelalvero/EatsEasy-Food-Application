@@ -82,34 +82,34 @@ The EatsEasy platform consists of the following components:
 
 ### EatsEasy User App
 - **Login Screen**  
-  ![Login Screen](assets/screenshots/login.png)
+  ![Login Screen](assets/screenshots/login.jpg)
 
 - **Home Page**  
-  ![Home Page](assets/screenshots/home.png)
+  ![Home Page](assets/screenshots/home.jpg)
 
 - **Order Tracking**  
-  ![Order Tracking](assets/screenshots/order-tracking.png)
+  ![Order Tracking](assets/screenshots/order-tracking.jpg)
 
 ### EatsEasy Vendor App
 - **Menu Management**  
-  ![Menu Management](assets/screenshots/menu.png)
+  ![Menu Management](assets/screenshots/menu.jpg)
 
-- **Sales Chart**  
-  ![Sales Chart](assets/screenshots/sales-chart.png)
+- **Create Order**  
+  ![Sales Chart](assets/screenshots/create.jpg)
 
 ### EatsEasy Driver App
 - **Order Pickup**  
-  ![Order Pickup](assets/screenshots/order-pickup.png)
+  ![Order Pickup](assets/screenshots/order-pickup.jpg)
 
 - **Delivery History**  
-  ![Delivery History](assets/screenshots/delivery-history.png)
+  ![Delivery History](assets/screenshots/delivery-history.jpg)
 
 ### EatsEasy Admin Panel
 - **Manage Restaurants**  
-  ![Manage Restaurants](assets/screenshots/manage-restaurants.png)
+  ![Manage Restaurants](assets/screenshots/manage-restaurants.jpg)
 
 - **Order Overview**  
-  ![Order Overview](assets/screenshots/orders-overview.png)
+  ![Order Overview](assets/screenshots/orders-overview.jpg)
 
 ## Demo video
 https://drive.google.com/file/d/1ygcJW3eT4hD1AS8HHuSZpZB0q4u5XUmn/view?usp=drive_link
