@@ -78,6 +78,39 @@ The EatsEasy platform consists of the following components:
 - Create and organize food categories.
 - Review customer feedback and manage ratings.
 
+## System Screenshots
+
+### EatsEasy User App
+- **Login Screen**  
+  ![Login Screen](assets/screenshots/login.png)
+
+- **Home Page**  
+  ![Home Page](assets/screenshots/home.png)
+
+- **Order Tracking**  
+  ![Order Tracking](assets/screenshots/order-tracking.png)
+
+### EatsEasy Vendor App
+- **Menu Management**  
+  ![Menu Management](assets/screenshots/menu.png)
+
+- **Sales Chart**  
+  ![Sales Chart](assets/screenshots/sales-chart.png)
+
+### EatsEasy Driver App
+- **Order Pickup**  
+  ![Order Pickup](assets/screenshots/order-pickup.png)
+
+- **Delivery History**  
+  ![Delivery History](assets/screenshots/delivery-history.png)
+
+### EatsEasy Admin Panel
+- **Manage Restaurants**  
+  ![Manage Restaurants](assets/screenshots/manage-restaurants.png)
+
+- **Order Overview**  
+  ![Order Overview](assets/screenshots/orders-overview.png)
+
 ## Demo video
 [![Watch the demo video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://drive.google.com/file/d/1ygcJW3eT4hD1AS8HHuSZpZB0q4u5XUmn/view?usp=drive_link))
 
