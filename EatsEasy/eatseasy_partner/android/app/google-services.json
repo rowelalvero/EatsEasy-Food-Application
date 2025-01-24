@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1054069052055",
+    "project_id": "eatseasy-49a0d",
+    "storage_bucket": "eatseasy-49a0d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054069052055:android:539cefa3e144206ae38fd2",
+        "android_client_info": {
+          "package_name": "com.szacheo.eatseasy_partner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054069052055-9jckes9m1qpmahfvrlptgmdfu1tter61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFe-p5sps_1wuSI-bbxk9a3Z3pyjyRTW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054069052055-9jckes9m1qpmahfvrlptgmdfu1tter61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

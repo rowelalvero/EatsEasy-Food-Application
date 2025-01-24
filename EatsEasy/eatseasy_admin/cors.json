@@ -1,0 +1,14 @@
+[
+  {
+    "origin": ["https://eatseasy-admin.web.app",
+      "https://admin.eatseasy.online",
+      "https://partner.eatseasy.online",
+      "https://foods.eatseasy.online",
+      "https://eatseasy-partner.web.app",
+      "https://eatseasyfoods.web.app"
+    ],
+    "method": ["GET", "POST", "DELETE", "PUT"],
+    "maxAgeSeconds": 3600,
+    "responseHeader": ["Content-Type", "Authorization"]
+  }
+]

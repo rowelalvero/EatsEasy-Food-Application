@@ -1,0 +1,21 @@
+<html>
+<head>
+  <title>Checkout Cancelled</title>
+  <script type="text/javascript">
+    let hasSentMessage = false;
+    function sendPaymentCancel() {
+      if (!hasSentMessage) {
+        console.log('Payment canceled, sending message to parent...');
+        // baguhin mo link url ng website.
+        window.opener.postMessage("payment_cancel", "https://foods.eatseasy.online");
+        hasSentMessage = true;
+      }
+    }
+    sendPaymentCancel();
+  </script>
+</head>
+<body>
+<h1>Payment UnSuccessful!</h1>
+<p>Please Try Again Later.</p>
+</body>
+</html>
